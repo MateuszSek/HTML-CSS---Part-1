@@ -127,3 +127,6 @@ iframe{
 table, th, td{
     border: solid 1px;
 }
+h1{
+    text-align: center;
+}
